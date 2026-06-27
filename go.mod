@@ -2,7 +2,7 @@ module github.com/AmadlaOrg/amadla
 
 go 1.26
 
-toolchain go1.26.1
+toolchain go1.26.4
 
 require (
 	github.com/goccy/go-yaml v1.19.2
@@ -14,6 +14,6 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/spf13/pflag v1.0.9 // indirect
+	github.com/spf13/pflag v1.0.10 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
